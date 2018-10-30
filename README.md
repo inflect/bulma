@@ -1,3 +1,11 @@
+# Inflect fork of Bulma
+
+This repo is a slimmed down version of Bulma forked at version 0.2.3. It discards anything not used on [inflect.com](https://inflect.com), and changes a few of the defaults to match our in-house styling. You can view documentation how it existed at the point of fork on the [Internet Archive](https://web.archive.org/web/20161022111902/http://bulma.io:80/documentation/overview/start).
+
+Below is the Readme of the original repo at version 0.2.3.
+
+
+
 # [Bulma](http://bulma.io)
 
 [![npm](https://img.shields.io/npm/v/bulma.svg)](https://www.npmjs.com/package/bulma)
